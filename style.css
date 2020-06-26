@@ -1,0 +1,30 @@
+    input[type="button"]
+    {
+    border-radius: 10px;
+    background-color:royalblue;
+    color: #ffffff;
+    border-color:#000000 ;
+    width:50px;
+    margin: 3px 3px 3px 3px;
+    height: 40px;
+    font-size: large;
+    }
+    input[type="text"]
+    {
+        font-size: large;
+    border-radius: 10px;
+    text-align: right;
+    background-color:white;
+    border-color: black ;
+    width:100%
+    }
+    #result{
+        height: auto;
+        width: 230px;
+        margin: 2px 2px 2px 2px;
+        padding-top: 20px;
+    }
+    #cll{
+        padding-left: 55px;
+        padding-right: 55px;
+    }
